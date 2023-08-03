@@ -1,3 +1,3 @@
-# Capacitive 3D_Printer Filament Width Sensor
+# 3D-Printed Capacitive Filament Sensorr
 
 /Some information about this project/
